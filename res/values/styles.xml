@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="AppTheme.AppCompat.Dialog.Alert.NoFloating" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowIsFloating">false</item>
+    </style>
+
+</resources>
